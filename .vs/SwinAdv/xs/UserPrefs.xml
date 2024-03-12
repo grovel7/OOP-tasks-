@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5F8A1CA3-BA89-4478-82D5-0C6971CCC4B3}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdv/IdentifiableObject.cs">
+    <Files>
+      <File FileName="SwinAdv/Program.cs" Line="1" Column="1" />
+      <File FileName="SwinAdv/IdentifiableObject.cs" Line="14" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwinAdv" expanded="True">
+            <Node name="SwinAdv">
+              <Node name="IdentifiableObject.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SwinAdv PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SwinAdvTest FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
